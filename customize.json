@@ -1,0 +1,23 @@
+{
+  "greeting": "Hi Dear!",
+  "name": "Gita",
+  "greetingText": "I really love your name btw!",
+  "wishText": "May the happiness always be with you! ;)",
+  "imagePath": "img/tata2.jpg",
+  "text1": "It's your birthday!!! :D",
+  "textInChatBox": "How to love Rafi more ...",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I just realized, I wanted to do something",
+  "text4Adjective": "Special!",
+  "text5Entry": "Because,",
+  "text5Content": "You are My Love",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Okay, now come back and tell me if you liked it.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
